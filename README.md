@@ -24,8 +24,8 @@
 
 ### 📊 GitHub 统计 (Stats)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iptodays&show_icons=true&theme=radical" alt="iptodays's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iptodays&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iptodays&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="iptodays's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iptodays&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
 </p>
 
 <p align="left">
