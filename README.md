@@ -1,4 +1,4 @@
-# Hi there, I'm A! 👋
+# Hi there, I'm A 👋
 
 ### 👨‍💻 关于我 (About Me)
 - 📍 坐标：苏州 (Based in Suzhou)
@@ -7,7 +7,12 @@
 - 📫 联系方式：[kingiswinter@gmail.com](mailto:kingiswinter@gmail.com)
 - 🐦 Twitter: [@iptodays](https://twitter.com/iptodays)
 
-> *It's not that it can't be used*
+### 🔗 链接 (Links)
+- GitHub: https://github.com/iptodays
+- X (Twitter): https://twitter.com/iptodays
+- Email: kingiswinter@gmail.com
+
+> *It's not that it can't be used.*
 
 ### 🛠 技能栈 (Tech Stack)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
