@@ -12,6 +12,9 @@
 - X (Twitter): https://twitter.com/iptodays
 - Email: kingiswinter@gmail.com
 
+### 🌿 兴趣 (Interests)
+- 日常轻松类 / 治愈系：K-ON!（轻音少女）
+
 > *It's not that it can't be used.*
 
 ### 🛠 技能栈 (Tech Stack)
